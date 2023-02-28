@@ -1,0 +1,14 @@
+{
+  "name":"Calculator",
+  "version":"1.0.1",
+  "description":"Integrated Calculator",
+  "manifest_version":3,
+  "action":{
+    "default_popup":"index.html"
+  },
+  "host_permissions":[
+    "http://*/*",
+    "https://*/*",
+    "*://*/*"
+  ]
+}
